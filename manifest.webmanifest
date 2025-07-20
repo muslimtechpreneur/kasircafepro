@@ -1,11 +1,11 @@
 {
-  "name": "AuraNotes",
-  "short_name": "AuraNotes",
-  "description": "AuraNotes - Jurnal & Self-Care",
+  "name": "KasirKafe Pro",
+  "short_name": "KasirKafe Pro",
+  "description": "KasirKafe Pro - aplikasi kasir kafe profesional",
   "start_url": "index.html",
   "display": "standalone",
   "background_color": "#ffffff",
-  "theme_color": "#ecc3eb",
+  "theme_color": "#6366f1",
   "orientation": "auto",
   "icons": [
     {
